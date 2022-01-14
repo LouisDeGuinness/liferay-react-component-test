@@ -1,0 +1,7 @@
+Bundle-Name: component-test
+Bundle-SymbolicName: component.test
+Bundle-Version: 1.0.0
+Javac-Encoding: UTF-8
+Export-Package: component.test.constants
+Web-ContextPath: /component-test
+-includeresource: META-INF/resources=build/node/packageRunBuild/resources
