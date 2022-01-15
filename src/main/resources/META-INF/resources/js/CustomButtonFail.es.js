@@ -2,7 +2,7 @@ import React from 'react';
 
 import ClayButton from '@clayui/button';
 
-const CustomButton = (props) => {
+const CustomButton = () => {
 	
 	const [name, setName] = React.useState('test');
 	
