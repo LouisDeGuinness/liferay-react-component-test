@@ -1,0 +1,13 @@
+{
+	"config": {
+		"imports": {
+			"frontend-taglib-clay": {
+				"@clayui/button": ">=3.40.0",
+				"@clayui/css": ">=3.x"
+			},
+			"@liferay/frontend-js-react-web": {
+				"react": ">=16.12.0"
+			}
+		}
+	}
+}

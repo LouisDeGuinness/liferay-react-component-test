@@ -14,7 +14,7 @@ Working:
 		module="js/CustomButton.es"
 	/>
 </div>
-Failing:
+Not failing anymore:
 <div class="react-component-failing">
     <react:component
         data="<%= data %>"

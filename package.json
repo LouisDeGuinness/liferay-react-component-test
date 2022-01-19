@@ -1,13 +1,6 @@
 {
-  "dependencies": {
-    "@clayui/button": "^3.40.0",
-    "@clayui/css": "3.x",
-    "react": "^16.12.0",
-    "react-dom": "^16.12.0"
-  },
   "devDependencies": {
-    "@liferay/npm-scripts": "47.0.0",
-    "react-test-renderer": "^16.12.0"
+    "@liferay/npm-scripts": "47.0.0"
   },
   "name": "component-test",
   "scripts": {
